@@ -16,7 +16,7 @@ function App() {
   };
      
   
-   return (
+   return(
     <>
     <h1>Firebase start</h1>
     <button onClick={signupUser}>ClickOn</button>
